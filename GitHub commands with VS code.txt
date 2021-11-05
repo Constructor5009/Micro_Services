@@ -1,16 +1,16 @@
 ---------------Github commands-----------------
 
-step 1) open the folder in you vs code that you want to upload.
+step 1) open the project folder in you vs code that you want to upload.
 
-step 2) use terminal to run these commands.
+step 2) use vs code terminal to run these commands.
 
-git init       -> can be used only once to make the folder a git folder.
+git init       -> should be used only once to make the folder a git folder.
 
-git add .	-> to upload the updated version
+git add .	      -> to upload the updated version
 
 git commit -m "First commit"  -> commit with some msg like First commmit
 
-// copy the path from github repository https link
+// copy the path from github repository i.e. https link
 
 git remote add origin https://github.com/Constructor5009/TestRepo.git 
 -- this is to establish a connection between local repository and git repository
